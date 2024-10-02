@@ -1,1 +1,1 @@
-# Mimic_cWGAN_Disordered_Waveguide_inverse_design
+# Conditions_Mimicing_WGAN_Disordered_Waveguide_inverse_design
